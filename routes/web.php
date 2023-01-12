@@ -234,7 +234,7 @@ Route::get('/', function () {
     ];
 
 
-    dd($comics);
+    // dd($comics);
 
     return view('home', compact('comics'));
 });
@@ -456,7 +456,7 @@ Route::get('/comics', function () {
     ];
 
 
-    dd($comics);
+    // dd($comics);
 
     return view('comics', compact('comics'));
 });
