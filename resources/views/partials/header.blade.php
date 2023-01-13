@@ -14,38 +14,38 @@
 <nav>
     <div class="d-flex justify-content-between w-75 m-auto align-items-center">
         <div>
-            <a href="" class="nav-link disabled"><img src="{{ asset('img/dc-logo.png') }}" alt=""></a>
+            <a href="{{ route ('back_home') }}" class="nav-link "><img src="{{ asset('img/dc-logo.png') }}" alt=""></a>
         </div>
         <ul class="d-flex">
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">CHARACTERS</a>
+                <a href="#" class="nav-link">CHARACTERS</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">COMICS</a>
+                <a href="#" class="nav-link">COMICS</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">MOVIES</a>
+                <a href="#" class="nav-link">MOVIES</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">TV</a>
+                <a href="#" class="nav-link">TV</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">GAMES</a>
+                <a href="#" class="nav-link">GAMES</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">COLLECTIBLES</a>
+                <a href="#" class="nav-link">COLLECTIBLES</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">VIDEOS</a>
+                <a href="#" class="nav-link">VIDEOS</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">FANS</a>
+                <a href="#" class="nav-link">FANS</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">NEWS</a>
+                <a href="#" class="nav-link">NEWS</a>
             </li>
             <li class="list-unstyled mx-2">
-                <a href="" class="nav-link disabled">SHOP</a>
+                <a href="#" class="nav-link">SHOP</a>
             </li>
         </ul>
         <form action="" role="search">
